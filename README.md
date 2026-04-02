@@ -52,5 +52,8 @@ This project is a React-based implementation of a Knowledge Base UI, built by re
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/saloni190202/react-knowledge-base-ui
+
+
+### 1. Live Demo
+https://kbui-black.vercel.app/
