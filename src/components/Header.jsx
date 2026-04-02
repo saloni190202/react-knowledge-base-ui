@@ -1,4 +1,5 @@
 import { Bell } from "lucide-react";
+import logo from "../assets/logo.png";
 
 export default function Header() {
   return (
@@ -9,10 +10,10 @@ export default function Header() {
       <div className="flex items-center gap-3">
         
         <img
-        src="src\assets\logo.png"
-        alt="logo"
-        className="w-10 h-10 object-contain"
-        />
+  src={logo}
+  alt="logo"
+  className="w-10 h-10 object-contain"
+/>
 
         
         <span className="font-semibold text-lg">Worcspace</span>
