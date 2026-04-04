@@ -52,7 +52,7 @@ This project is a React-based implementation of a Knowledge Base UI, built by re
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/saloni190202/react-knowledge-base-ui
+git clone https://github.com/saloni190202/kbui.git
 
 
 ### 1. Live Demo
